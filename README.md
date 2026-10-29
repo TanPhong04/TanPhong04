@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%91%8B+Hi%2C+I'm+Ta+Tan+Phong!;%E2%98%95+Focused+on+Java+%26+Spring+Boot;%F0%9F%9A%80+Building+practical+web+applications;%F0%9F%8C%B1+Learning%2C+refining%2C+and+writing+clean+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%91%8B+Hi%2C+I'm+Ta+Tan+Phong!;%E2%98%95+Software+Engineering+Student+%40+FPT+University;%F0%9F%9A%80+Focused+on+Java+%26+Spring+Boot+Backend;%F0%9F%8C%B1+Building+practical+apps+%26+writing+clean+code" alt="Typing SVG" />
   </a>
 </div>
 
@@ -20,16 +20,16 @@
 
 ---
 
-### 👨‍💻 Giới thiệu
+### 👨‍💻 About Me
 
-- 🎓 Sinh viên chuyên ngành **Kỹ thuật Phần mềm (Software Engineering)** tại **Đại học FPT**.
-- ☕ Định hướng chính: **Java Backend Development** (Spring Boot, RESTful APIs, OOP, Clean Code).
-- 🌐 Có kinh nghiệm phát triển full-stack web với **TypeScript / React** và làm việc với CSDL quan hệ.
-- 🎯 Luôn chủ động học hỏi, trau dồi tư duy giải quyết vấn đề và tìm kiếm cơ hội thực tập / việc làm phù hợp.
+- 🎓 **Software Engineering** student at **FPT University**.
+- ☕ Primary focus: **Java Backend Development** (Spring Boot, RESTful APIs, OOP, Clean Code).
+- 🌐 Practical experience building full-stack web applications with **TypeScript & React** and working with relational databases.
+- 🎯 Continuously learning, strengthening core problem-solving fundamentals, and open to software engineering internships and junior opportunities.
 
 ---
 
-### 🛠️ Kỹ năng & Công nghệ chính
+### 🛠️ Core Skills & Technologies
 
 <div align="center">
   <p>
@@ -43,26 +43,26 @@
   </p>
 </div>
 
-| Nhóm | Công nghệ sử dụng |
+| Category | Technologies |
 | :--- | :--- |
-| **Backend & Ngôn ngữ** | Java (Core, OOP), Spring Boot, RESTful API |
+| **Backend & Core** | Java (Core, OOP), Spring Boot, RESTful APIs |
 | **Frontend** | TypeScript, JavaScript, React, HTML5 / CSS3 |
-| **Cơ sở dữ liệu** | PostgreSQL, SQL Server |
-| **Công cụ hỗ trợ** | Git, GitHub, Docker (cơ bản), Postman |
+| **Databases** | PostgreSQL, Microsoft SQL Server |
+| **Tools & Workflow** | Git, GitHub, Docker (fundamentals), Postman |
 
 ---
 
-### 🌟 Dự án tiêu biểu
+### 🌟 Featured Projects
 
-| Dự án | Công nghệ | Mô tả ngắn |
+| Project | Tech Stack | Summary |
 | :--- | :--- | :--- |
-| 🌐 **[Social Media Blog Platform](https://github.com/TanPhong04/Social-Media-Blog-Platform)** | `Java` `TypeScript` `Docker` | Nền tảng blog & mạng xã hội thu nhỏ với chức năng tương tác bài viết, bảng tin và xác thực người dùng. |
-| 🍽️ **[Restaurant Management System](https://github.com/TanPhong04/restaurant-management-system)** | `Java` `TypeScript` `PostgreSQL` | Hệ thống quản lý nhà hàng: xử lý đặt bàn, đơn gọi món và báo cáo doanh thu. |
-| 🗺️ **[Local Buddy](https://github.com/TanPhong04/local-buddy-)** | `Java` `TypeScript` `PostgreSQL` | Dịch vụ kết nối hướng dẫn viên địa phương và du khách, hỗ trợ đặt tour và lịch trình. |
+| 🌐 **[Social Media Blog Platform](https://github.com/TanPhong04/Social-Media-Blog-Platform)** | `Java` `TypeScript` `Docker` | Full-stack blogging and social platform featuring user authentication, interactive feeds, and post interactions. |
+| 🍽️ **[Restaurant Management System](https://github.com/TanPhong04/restaurant-management-system)** | `Java` `TypeScript` `PostgreSQL` | Management software for restaurant operations: handles table bookings, order processing, and sales analytics. |
+| 🗺️ **[Local Buddy](https://github.com/TanPhong04/local-buddy-)** | `Java` `TypeScript` `PostgreSQL` | Connecting travelers with local guides for tour reservations, attractions discovery, and custom itineraries. |
 
 ---
 
-### 📊 Hoạt động GitHub
+### 📊 GitHub Activity
 
 <div align="center">
   <picture>
