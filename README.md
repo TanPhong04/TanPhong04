@@ -115,6 +115,16 @@ Status: Open to Software Engineering internships, full-time roles & collaborativ
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TanPhong04/TanPhong04/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TanPhong04/TanPhong04/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake Contribution Animation" src="https://raw.githubusercontent.com/TanPhong04/TanPhong04/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TanPhong04&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=10" height="175" alt="TanPhong04's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanPhong04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=10" height="175" alt="Top Languages" />
 </div>
