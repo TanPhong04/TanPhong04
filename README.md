@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://img.shields.io/badge/Location-Vietnam-009688?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=TanPhong04&label=Profile%20Views&color=007ACC&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -122,6 +123,12 @@ Status: Open to Software Engineering internships, full-time roles & collaborativ
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanPhong04&theme=tokyonight&hide_border=true&background=0d1117&border_radius=10" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanPhong04&theme=tokyo-night&hide_border=true&area=true&border_radius=10&bg_color=0d1117" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
