@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:161b22,100:0d1117&height=150&section=header&text=Ta%20Tan%20Phong&fontSize=34&fontAlignY=45&desc=Software%20Engineering%20Student%20%E2%80%A2%20Java%20%26%20Backend%20Enthusiast&descFontSize=15&descAlignY=70&fontColor=58a6ff" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/TanPhong04/TanPhong04/main/assets/header.svg" width="100%" alt="Ta Tan Phong Header" />
 </div>
 
 <p align="center">
@@ -74,12 +74,6 @@ Interests: Clean Architecture, OOP Design, Practical Full-Stack Web Development
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TanPhong04/TanPhong04/output/github-contribution-grid-snake.svg" />
     <img alt="Snake Contribution Animation" src="https://raw.githubusercontent.com/TanPhong04/TanPhong04/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=TanPhong04&theme=tokyonight&hide_border=true&background=0d1117&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <br/>
